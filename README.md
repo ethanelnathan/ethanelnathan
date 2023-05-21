@@ -1,7 +1,6 @@
 - Hi, I’m @ethanelnathan
 - I’m interested in computer programming
-- I’m currently learning C and Python Programming
-- I’m not currently active nor do i understand how to use Github properly.
+- Focusing on Internet of Things, Mobile Development and also Web Development (mostly frontend)
 - Reach me by cliking this link after this:
 - "https://linktr.ee/ethanelmathias"
 
